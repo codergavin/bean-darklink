@@ -1,9 +1,11 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 # Author:Gavin
-# Description:暗链检测
+# Description:暗链检测(最初版本)
 #
 # 需要安装插件：webdriver、selenium、chardet、火狐或者谷歌浏览器
+# 需要pythond的插件 chardet、selenium、tldextract
+# LastUpdateTime:2018-07-14
 
 # 未完成功能
 # TODO 4、JS劫持：通过搜索引擎搜索点击页面（执行一段js）跳转到博彩页面；直接输入网址访问网页，跳转到404页面。
