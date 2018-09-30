@@ -8,6 +8,8 @@
 # LastUpdateTime:2018-07-14
 
 # 未完成功能
+# TODO 1、误报过滤
+# TODO 2、黑白名单
 # TODO 4、JS劫持：通过搜索引擎搜索点击页面（执行一段js）跳转到博彩页面；直接输入网址访问网页，跳转到404页面。
 
 import sys,time
