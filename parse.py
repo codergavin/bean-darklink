@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 # Author:Gavin
-# Description:暗链检测(最初版本)
+# Description:暗链检测(最初版本,很多功能后来完善了，但是没有更新到这里，如需完全源码请联系作者)
 #
 # 需要安装插件：webdriver、selenium、chardet、火狐或者谷歌浏览器
 # 需要pythond的插件 chardet、selenium、tldextract
